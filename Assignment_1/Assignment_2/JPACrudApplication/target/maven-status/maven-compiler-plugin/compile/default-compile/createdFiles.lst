@@ -1,0 +1,13 @@
+ejb\Demo.class
+ejb\PostServiceLocal.class
+ejb\UserServiceLocal.class
+ejb\PostService.class
+ejb\ProfileService.class
+com\mycompany\jpacrudapplication\JakartaRestConfiguration.class
+ejb\UserService.class
+Entity\Category.class
+com\mycompany\jpacrudapplication\resources\JakartaEE10Resource.class
+Entity\Users.class
+Entity\Profile.class
+ejb\ProfileServiceLocal.class
+Entity\Post.class
