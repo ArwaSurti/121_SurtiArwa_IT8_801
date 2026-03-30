@@ -1,0 +1,11 @@
+com\mycompany\assignment_1\JakartaRestConfiguration.class
+com\mycompany\assignment_1\resources\JakartaEE10Resource.class
+assignment_1\login.class
+assignment_1\Product.class
+assignment_1\register.class
+assignment_1\RemoveFromCart.class
+assignment_1\DbConnection.class
+assignment_1\ProductMaster.class
+assignment_1\CartItem.class
+assignment_1\CheckOut.class
+assignment_1\AddToCart.class
